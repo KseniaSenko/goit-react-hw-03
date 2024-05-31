@@ -1,0 +1,24 @@
+.contact_item {
+  display: flex;
+  align-items: center;
+  margin-right: 16px;
+  padding: 10px;
+  outline: 1px solid black;
+  border-radius: 4px;
+}
+.contact_info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: 30px;
+}
+.contact_name {
+  margin-bottom: 7px;
+}
+.contact_icon {
+  margin-right: 10px;
+}
+.contact_btn {
+  padding: 3px 5px;
+  font-size: inherit;
+}
